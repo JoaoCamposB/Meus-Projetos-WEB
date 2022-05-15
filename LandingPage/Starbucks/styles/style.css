@@ -1,9 +1,0 @@
-@import 'reset.css';
-
-.center{
-    display: flex;
-    flex-wrap: wrap;
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 0 2%;
-}
