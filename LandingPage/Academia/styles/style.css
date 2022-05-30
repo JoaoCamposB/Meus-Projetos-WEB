@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Lato:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    width: 100vw;
+    height: 100vw;
+    font-family: lato, sans-serif; 
+    font-size: 62.5%; 
+}
+
+body{
+    background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url(/LandingPage/Academia/img/img5.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
